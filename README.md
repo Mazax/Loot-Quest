@@ -1,2 +1,2 @@
 # Loot-Quest
-GameDev-club project (Fall 2017)
+GameDev-club fall 2017 - Pirate shooter-looter game
